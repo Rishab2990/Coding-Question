@@ -22,17 +22,17 @@ public class Pattern {
         }
 
 
-        //print square pattern in "number" but everytime numbers does not start with 0 or 1
+        //print square pattern in "number" but every time numbers does not start with 0 or 1
 
 
-        // int num = 1 ; int n = 5 ; 
-        // for(int i = 0 ; i<n; i++){
-        //     for(int j = 0 ; j<n; j++){
-        //         System.out.print(num + " ");
-        //         num++;
-        //     }
-        //     System.out.println();
-        // }
+        int num = 1 ; int n = 5 ; 
+        for(int i = 0 ; i<n; i++){
+            for(int j = 0 ; j<n; j++){
+                System.out.print(num + " ");
+                num++;
+            }
+            System.out.println();
+        }
 
 
             int n = 5 ; 
